@@ -10,7 +10,7 @@ def class_pairing
 			puts group
 
 		end
-	array_of_class.join(" " + "and" + " ")
+	array_of_class.join(" and ")
 end	
 puts class_pairing
 
